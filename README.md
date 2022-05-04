@@ -1,2 +1,2 @@
-# restaurant_api
+# Restaurant API
 This is restaurants API that will list all restaurants according to their owner, location address and rating
