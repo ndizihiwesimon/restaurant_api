@@ -13,11 +13,11 @@ This API has been developed according to instructions made, it includes all feat
 
 #### NOTE: Ingredients are recorded separately and linked to Dish using ManyToManyField, Dish Pictures are added  to the Dish after (Picture store dish as ForeignKey field), and one dish can have as many pictures as you want, you can explore more as you use API.
 
-#### Link to Postman Collection : (JSON Link) https://www.getpostman.com/collections/816cab3bf50c65b17bf1
-#### Link to the Hosted Web API : http://ndizihiwe.azurewebsites.net/
+1. Link to Postman Collection : (JSON Link) https://www.getpostman.com/collections/816cab3bf50c65b17bf1
+2. Link to the Hosted Web API : http://ndizihiwe.azurewebsites.net/
 ### Testing Credentials
 
-#### Username : "Nomiso"
-#### Password : "123"
+1. Username : "Nomiso"
+2. Password : "123"
 
 ## Thank you
