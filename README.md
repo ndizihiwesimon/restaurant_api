@@ -11,7 +11,8 @@ This API has been developed according to instructions made, it includes all feat
 5. list of dishes by restaurants ... restaurants/{pk}/dishes
 6. And other endpoints for every model; Users, Districts, Sectors, Owners, Restaurants, Dishes, Ingredients, and Pictures
 
-#### NOTE: Ingredients are recorded separately and linked to Dish using ManyToManyField, Dish Pictures are added  to the Dish after (Picture store dish as ForeignKey field), and one dish can have as many pictures as you want, you can explore more as you use API.
+#### NOTE: 
+Ingredients are recorded separately and linked to Dish using ManyToManyField, Dish Pictures are added  to the Dish after (Picture store dish as ForeignKey field), and one dish can have as many pictures as you want, you can explore more as you use API.
 
 1. Link to Postman Collection : (JSON Link) https://www.getpostman.com/collections/816cab3bf50c65b17bf1
 2. Link to the Hosted Web API : http://ndizihiwe.azurewebsites.net/
@@ -20,4 +21,4 @@ This API has been developed according to instructions made, it includes all feat
 1. Username : "Nomiso"
 2. Password : "123"
 
-## Thank you
+### Thank you
