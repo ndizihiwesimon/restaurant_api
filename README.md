@@ -1,6 +1,5 @@
 
 # Restaurant API for Mobile App
-
 ## User Guide
 User login feature provided by "api-auth" Rest-Framework feature and User credentials provided at the end of ReadMe or create your own user through DefaultRouter provided index (Users endpoint)
 
@@ -21,4 +20,4 @@ This API has been developed according to instructions made, it includes all feat
 #### Username : "Nomiso"
 #### Password : "123"
 
-
+## Thank you
